@@ -90,9 +90,8 @@ The command verified that the sample PDF was present and accessible.
 
 **Result:** Successfully located the internship sample PDF.
 
-**Screenshot evidence:**
+<img width="1077" height="1517" alt="1000128042" src="https://github.com/user-attachments/assets/e0aeaa46-7836-4a80-b07f-d3106f6dd84b" />
 
-_Add screenshot showing the sample PDF in the Downloads folder._
 
 ---
 
@@ -112,11 +111,9 @@ This hash contains information required by compatible password recovery tools to
 
 **Tool used:** Networkwalks Hash Calculator
 
-**Screenshot evidence:**
 
-_Add screenshot showing the Hash Calculator and generated PDF hash._
 
----
+
 
 ## 📋 3. Copying the Generated Hash
 
@@ -138,9 +135,8 @@ The tool processed the submitted hash and attempted to identify the password ass
 
 **Tool used:** Networkwalks Password Cracker
 
-**Screenshot evidence:**
+<img width="1920" height="982" alt="Screenshot_2026-11-23_23_50_34" src="https://github.com/user-attachments/assets/39b4959f-676d-4e6b-830b-090e1194f2c7" />
 
-_Add screenshot showing the Password Cracker page and submitted hash._
 
 ---
 
@@ -157,9 +153,8 @@ The recovered password was used in the next stage to verify whether the original
 | Password recovery | ✅ Successful |
 | Password verification | ✅ Successful |
 
-**Screenshot evidence:**
+<img width="1920" height="982" alt="Screenshot_2026-11-23_23_54_14" src="https://github.com/user-attachments/assets/30290544-7efa-48bc-a484-0f1c5706e30f" />
 
-_Add screenshot showing the successful password recovery result. Hide the actual password if publishing publicly._
 
 ---
 
@@ -172,12 +167,8 @@ The recovered password was entered into the PDF password prompt.
 The document opened successfully, confirming that the recovered password was correct.
 
 **Final Result:** Successfully unlocked the password-protected internship PDF.
+<img width="1058" height="1460" alt="1000128043" src="https://github.com/user-attachments/assets/795a2623-524b-436f-b5c8-ad7c9f0462ac" />
 
-**Screenshot evidence:**
-
-_Add screenshot showing the successfully opened PDF._
-
----
 
 ## 🚦 7. Risk Analysis
 
